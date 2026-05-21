@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "r98Hh5Cgwrg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Documents\\solutions\\solutionDay_11\\project01\\project01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.26\\microsoft.windowsdesktop.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.26\\microsoft.netcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.26\\microsoft.aspnetcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.26\\microsoft.netcore.app.host.win-x64.8.0.26.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "C:\\Users\\user\\Documents\\solutions\\solutionDay_11\\project01\\project01.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\user\\Documents\\solutions\\solutionDay_11\\project01\\project01.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
