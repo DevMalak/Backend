@@ -1,0 +1,14 @@
+C:\Users\user\Documents\solutions\solutionDay_5\solutions\bin\Debug\net8.0\solutions.exe
+C:\Users\user\Documents\solutions\solutionDay_5\solutions\bin\Debug\net8.0\solutions.deps.json
+C:\Users\user\Documents\solutions\solutionDay_5\solutions\bin\Debug\net8.0\solutions.runtimeconfig.json
+C:\Users\user\Documents\solutions\solutionDay_5\solutions\bin\Debug\net8.0\solutions.dll
+C:\Users\user\Documents\solutions\solutionDay_5\solutions\bin\Debug\net8.0\solutions.pdb
+C:\Users\user\Documents\solutions\solutionDay_5\solutions\obj\Debug\net8.0\solutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\solutions\solutionDay_5\solutions\obj\Debug\net8.0\solutions.AssemblyInfoInputs.cache
+C:\Users\user\Documents\solutions\solutionDay_5\solutions\obj\Debug\net8.0\solutions.AssemblyInfo.cs
+C:\Users\user\Documents\solutions\solutionDay_5\solutions\obj\Debug\net8.0\solutions.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\solutions\solutionDay_5\solutions\obj\Debug\net8.0\solutions.dll
+C:\Users\user\Documents\solutions\solutionDay_5\solutions\obj\Debug\net8.0\refint\solutions.dll
+C:\Users\user\Documents\solutions\solutionDay_5\solutions\obj\Debug\net8.0\solutions.pdb
+C:\Users\user\Documents\solutions\solutionDay_5\solutions\obj\Debug\net8.0\solutions.genruntimeconfig.cache
+C:\Users\user\Documents\solutions\solutionDay_5\solutions\obj\Debug\net8.0\ref\solutions.dll
